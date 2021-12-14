@@ -1,2 +1,3 @@
+//Multiplication
+(10 * 6) +2;
 
-// Write your code here
